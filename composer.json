@@ -19,7 +19,7 @@
 	"require": {
 		"nette/di": "*",
 		"nette/utils": "*"
-	}
+	},
 	"autoload": {
 		"psr-0": {
 			"Kdyby\\Events\\": "src/"
